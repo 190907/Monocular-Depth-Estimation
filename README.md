@@ -6,7 +6,7 @@
 This dataset contains videos collected from traffic conditions in Kerala, India. It includes synchronized dashcam footage and drone footage, capturing various vehicle types and unique driving behaviors.
 
 ### Types of Data
-- **Video Format**: MOV
+- **Video Format**: MP4
 
 ### Collection Process
 Videos were collected from a moving vehicle and drone to provide a realistic representation of Indian traffic scenarios.
