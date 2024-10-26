@@ -18,7 +18,6 @@ The dataset features the following vehicle types:
 - Bicycles
 - Trucks
 - Buses
-- Pedestrians
 
 ### Use Case
 This dataset is designed to aid in developing and testing algorithms for depth estimation and object detection in complex, heterogeneous traffic environments.
